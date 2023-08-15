@@ -1,5 +1,6 @@
 # summarAIzer - Web Content Summarization App
 ![Go-Cart Logo](https://www.linkpicture.com/q/a17e64c4-eaf1-4b5c-9712-d255fee8b032-removebg-preview-1.png)
+
 summarAIzer is a web application that automatically summarizes the content of a given article or website by utilizing AI-powered summarization techniques. It also features a "History" section where previously entered links are displayed.
 
 ## Features
